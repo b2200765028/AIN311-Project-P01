@@ -1,5 +1,4 @@
-# Project Title
-Generate Questions With Custom Data
+# Generate Questions With Custom Data
 
 ## Description
 
@@ -12,7 +11,7 @@ https://medium.com/@emre02onur09/week-1-generate-questions-with-custom-data-8e4e
 
 ## Authors
 
-Contributors names
+Emre Çoban
 
--Emre Çoban 
--Alihan Sağöz
+
+Alihan Sağöz
